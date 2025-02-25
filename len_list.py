@@ -1,3 +1,4 @@
+#WAF to print the length of  a list
 def cal_len(a:[]):
     print(len(a))
 
